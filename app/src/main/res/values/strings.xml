@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sensor</string>
+    <string name="sensor_types">Sensor Types</string>
+
+    <string name="type_accelerometerx">TYPE ACCELEROMETER X: %1$.5f m/s²</string>
+    <string name="type_accelerometery">TYPE ACCELEROMETER Y: %1$.5f m/s²</string>
+    <string name="type_accelerometerz">TYPE ACCELEROMETER Z: %1$.5f m/s²</string>
+
+    <string name="type_ambient_temperature">TYPE AMBIENT TEMPERATURE: %1$.1f °C</string>
+
+    <string name="type_gravityx">TYPE GRAVITY X: %1$.5f m/s²</string>
+    <string name="type_gravityy">TYPE GRAVITY Y: %1$.5f m/s²</string>
+    <string name="type_gravityz">TYPE GRAVITY Z: %1$.5f m/s²</string>
+
+    <string name="type_gyroscopex">TYPE GYROSCOPE X: %1$.5f rad/s</string>
+    <string name="type_gyroscopey">TYPE GYROSCOPE Y: %1$.5f rad/s</string>
+    <string name="type_gyroscopez">TYPE GYROSCOPE Z: %1$.5f rad/s</string>
+
+    <string name="type_light">TYPE LIGHT: %1$.2f lux</string>
+
+    <string name="type_linear_accelerationx">TYPE LINEAR ACCELERATION X: %1$.5f m/s²</string>
+    <string name="type_linear_accelerationy">TYPE LINEAR ACCELERATION Y: %1$.5f m/s²</string>
+    <string name="type_linear_accelerationz">TYPE LINEAR ACCELERATION Z: %1$.5f m/s²</string>
+
+    <string name="type_magnetic_field">TYPE MAGNETIC FIELD: %1$.1f μT</string>
+
+    <string name="type_orientationx">TYPE ORIENTATION X: %1$.5f</string>
+    <string name="type_orientationy">TYPE ORIENTATION Y: %1$.5f</string>
+    <string name="type_orientationz">TYPE ORIENTATION Z: %1$.5f</string>
+
+    <string name="type_pressure">TYPE PRESSURE: %1$.2f hPa</string>
+
+    <string name="type_proximity">TYPE PROXIMITY: %1$.2f cm</string>
+
+    <string name="type_relative_humidity">TYPE RELATIVE HUMIDITY: %1$.2f</string>
+
+    <string name="type_rotation_vectorx">TYPE ROTATION VECTOR X: %1$.5f m/s²</string>
+    <string name="type_rotation_vectory">TYPE ROTATION VECTOR Y: %1$.5f m/s²</string>
+    <string name="type_rotation_vectorz">TYPE ROTATION VECTOR Z: %1$.5f m/s²</string>
+
+    <string name="type_temperature">TYPE TEMPERATURE: %1$.2f °C</string>
+
+    <string name="sensor_survey">Sensor Survey</string>
+    <string name="about">About</string>
+
+    <string name="error_no_sensor">No Sensor</string>
+
+    <string name="hasan">Ahmad Abu Hasan\n117227007</string>
+    <string name="fuad">Muhammad Amirul Fuad\n117227027</string>
+
+</resources>
